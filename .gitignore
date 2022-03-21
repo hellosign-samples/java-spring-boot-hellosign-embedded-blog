@@ -1,0 +1,10 @@
+# Ignore local external variables
+application.properties
+# But make an exception for the example file
+!example-*
+
+# built files
+target
+
+# vs code settings
+.vscode
